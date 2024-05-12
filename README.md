@@ -112,8 +112,6 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w
 <H3>OUTPUT:</H3>
 
 ![5i](https://github.com/BALA291/Ex-5--NN/assets/120717501/791e8cd8-3e23-4cfa-9b3e-f82d018bf786)
-![5ii](https://github.com/BALA291/Ex-5--NN/assets/120717501/6441d561-45ca-415f-89e4-c91f7a3ad044)
-![5iii](https://github.com/BALA291/Ex-5--NN/assets/120717501/0bda9222-2501-477d-a536-98c7f9ed3379)
 
 
 <H3>Result:</H3>
